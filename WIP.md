@@ -192,14 +192,10 @@
   afterwards.
 
   ### On Their Turn
-  A PC or enemy can do one of the following:
+  A PC or enemy can do two of the following:
 
   • Make an Attack roll against a target.
-
-  • Run about 50’+Movement (or 60’).
-
-  • Make a charge attack against a target (Move 20’+Movement and then make an Attack roll).
-
+  
   • Cast a spell or activate a magic item.
 
   • Retrieve an item from a non-quickdraw slot.
@@ -209,11 +205,12 @@
   • Try to trip, shove, or push a target.
 
   • Attempt to remove a Fatal Wound from a dying ally.
-
-  In addition, a PC or enemy can move 20’+Movement (or 30’).
-  Talking, shouting, or dropping an item can be done freely, and
-  possibly even in other peoples’ turns. Basically, you can do one
-  big thing a turn, plus move a bit.
+  
+  • move 20’+Movement (or 30’).
+  
+  Talking, shouting, retrieving an item from a quick slot or dropping an item can be done freely, and
+  possibly even in other peoples’ turns. Basically, you can do two
+  big thing a turn.
   
   ### Attack and Defense Rolls
   
@@ -239,13 +236,20 @@
   All classes are proficient with daggers. A PC is also proficient with any weapons they gain from a class or background. A PC
   has -4 to Attack with a weapon until they gain proficiency by landing 8 successful hits in combat.
 
+## Player Roles
+
+  Mapper
+
+  Quarter Master
+
+  Caller
+
+  Note taker
+
+  Organizer
+
 ## dungeon
 
 
 ## wilderness
 
-
-## magic
-
-
-## 
