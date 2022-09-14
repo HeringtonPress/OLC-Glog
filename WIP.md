@@ -88,10 +88,12 @@
   to resist the cruel hand of fate.
 
   ### Languages
-  Every adventurer knows Common and 1+INT additional languages to a minnimum of 0.
-  Additional Languages can be learned with sufficient study and a proper teacher.
+  Every adventurer knows Common and 1+INT modifier additional languages to a minnimum of 0.
+  
+  Additional Languages can be learned if your INT modifier has increased  based on the initial formula
+  and with sufficient study and a proper teachers.
 
-  **Common**: Magically understood by all.
+  **Common**: Magically understood by all who are sentient.
 
   **Dwarrin**: Indecipherable even by magic.
 
@@ -163,7 +165,7 @@
   Whenever a PC levels, increase their HP, Attack, and base Save (before their Charisma bonus is added). A PC can also test to
   improve a stat of their choice. Declare the stat and roll 3d6. If the result is over, the stat’s value increases by 1.
   
-  | Level | EXP  |   HP   | Templates | Save |
+  | Level | EXP  |   HP   | Templates | Luck |
   |:-----:|:----:|:------:|:---------:|:----:|
   |   1   |  -   | Con-4  |     1     |  6   |
   |   2   | 200  | Con-2  |     2     |  7   |
