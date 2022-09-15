@@ -95,9 +95,9 @@
 
   **Common**: Magically understood by all who are sentient.
 
-  **Dwarrin**: Indecipherable even by magic.
-
   **Draconic**: Warms speaker and burns paper.
+  
+  **Dwarrin**: Indecipherable even by magic.
 
   **Elvish**: Silent unless seen, only truthful.
 
